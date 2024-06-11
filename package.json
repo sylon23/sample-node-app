@@ -1,5 +1,5 @@
 {
-  "name": "opentelemetry-node",
+  "name": "basic-node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,10 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@opentelemetry/api": "^1.8.0",
-    "@opentelemetry/auto-instrumentations-node": "^0.46.1",
-    "@opentelemetry/resources": "^1.24.1",
-    "@opentelemetry/semantic-conventions": "^1.24.1",
     "express": "^4.19.2"
   }
 }
